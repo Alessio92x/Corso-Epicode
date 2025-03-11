@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@0;1&family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,600&family=Prata&display=swap');
+
+
+h2 {font-size: 80px;}
+
+.main-section {
+
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.image-container {
+    background-image: url(Elementi/Villa\ Della\ Regina.jpg) ;
+    height: 500px;
+    background-repeat: no-repeat;    
+}
+
+h1 {font-size: 64px;
+font-family: Prata;
+font-weight: 400;
+margin-bottom : 0
+} 
+
+h3 {
+    font-size: 24px;
+font-family: Prata;
+font-weight: 400;
+margin-bottom : 0
+}
+
+h6{padding: 22px;
+margin-bottom: 0px;
+margin-top: 56px;
+color: white;
+background: linear-gradient(0deg, rgba(37, 240, 37, 0.821), rgb(194, 218, 128));
+border-radius: 6px 6px 6px 6px;
+}
+
+
+.first-class {font-family: Montserrat;}
+
+.Autore
+{
+    font-weight: 600;
+font-style: oblique ;
+}
+
+a 
+{   text-decoration: none;
+    color: rgb(194, 218, 128);
+    }
+a :hover {
+    color: rgb(194, 218, 128) ;
+    }
+a :active {
+    color: rgb(194, 218, 128) ;
+    }
+
+Ul
+{
+list-style-type: none;
+margin-left: 0;
+}
+
+li
+{
+padding-top: 6px;
+padding-bottom: 6px;
+padding-left: 22px;
+border-bottom: 1px;
+border-color: #dfdfdf ;
+color: rgba(49, 245, 49, 0.834);
+}
+
+.Back{
+
+    padding: 16px;
+    background-color: black;
+    text-decoration: white;
+    text-align: center
+;}
