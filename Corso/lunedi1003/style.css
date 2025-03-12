@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..900&family=Roboto:wght@700&display=swap');
+
+body{
+    display: flex;
+    flex-direction: column;
+   
+    }
+
+header{
+    display: flex;  
+    flex-direction: row;
+    justify-content: center ;
+    margin: 2em 0em;
+}
+
+.logo{    
+    display: flex;  
+    flex-direction: row;
+        height: 80px;
+}
+
+.txtlogo {
+    
+    text-align: center;
+    width: 100%;
+    border-top: 1px yellow solid;
+    color:  rgba(8,120,120,255);
+         }
+
+.perlogo{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.title{
+    justify-content: center;
+    display: flex ;
+    flex-direction: row;
+    margin: 1vh 65vh;
+}
+       
+.taste{
+    justify-content: center;
+    display: flex ;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0vh 57vh;
+}
+    
+
+#focaccia {
+    justify-content: center;
+    display: flex ;
+    flex-direction: row;
+    flex-wrap: wrap;}
+
+.imgfocaccia {
+    border-radius: 15px;
+    height: 60vh;}
+
+.fonteimmagine{
+        color: gray;
+        justify-content: center;
+    display: flex ;
+    flex-direction: row;
+    flex-wrap: wrap;
+    }
+
+
+.span2 {
+    display: flex ;
+    flex-direction: row;
+    color: Red;
+    margin: 0vh 58vh;
+    }
+
+.link
+
+{   margin: 0vh 58vh;
+    text-align: left    ;
+    display: flex ;
+    flex-direction: row;
+}
+
+.ingredienti
+
+{
+    display: flex;
+    margin: 0vh 57vh;
+    border-bottom: 1px rgb(164, 248, 248) solid;
+}
+
+h2{font-weight: 400;
+}
+
+
+
+ul{ 
+    
+    margin: 1vh 52.5vh;
+    font-weight: bold}
+
+    li{
+    margin: 0vh 57.5vh;
+    padding: 1em;}
+
+
+    .method{
+        margin: 0vh 57vh;
+        border-bottom: 1px rgb(164, 248, 248) solid;
+        
+    }
+
+    .endlist ol li {list-style: decimal;
+        font-weight: bold;}
+
+        .endlist li{list-style: none; }
+
+        footer{
+            text-align: left;
+            margin: 0vh 57vh;
+        }
+
