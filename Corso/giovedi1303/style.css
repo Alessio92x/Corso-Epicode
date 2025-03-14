@@ -1,0 +1,172 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    width: 80%;
+    background-color: rgb(255, 249, 240);
+    margin-left: 10%
+}
+
+header {
+    height: 60%;
+    background-color: rgba(34, 47, 62, 255);
+}
+
+h1 {
+    display: none;
+}
+
+header img {
+    width: 8%;
+    height: 15%;
+    padding-left: 2.5%;
+    padding-top: 1%;
+    padding-bottom: 0.4%;
+}
+
+#menu {
+    padding: 0.2% 0;
+    background-color: rgba(53, 71, 88, 255);
+
+}
+
+#menuprova {
+    margin-left: 2.1%
+}
+
+#menu nav {
+    display: inline;
+    padding-inline: 0.7%;
+    color: white;
+}
+
+#menu #menuprova a {
+    text-decoration: none;
+    font-weight: 400;
+}
+
+.shop {
+
+    background-color: rgb(245, 102, 0);
+    text-align: center;
+    color: white;
+    margin: 2.5% 2.4%;
+    height: 2em;
+    padding-top: 1em;
+}
+
+#bgimg {
+    background-size: contain;
+    background-repeat: repeat-y;
+    height: 12rem;
+    background-image: url(assets/bg-image.png);
+    margin: 2.4%;
+}
+
+#gift {
+    color: white;
+    text-align: center;
+    padding-top: 3%;
+}
+
+h2 {
+    font-weight: 700;
+}
+h3 {
+    font-weight: lighter;
+}
+
+#events {
+
+    padding: 1em;
+    margin: 2.5%;
+    background-color: white;
+    height: 80%;
+
+}
+
+#events p {
+
+    margin-inline-start: 1%;
+    font-weight: 600;
+
+}
+
+#events a {
+    text-decoration: none;
+    color: rgb(2, 112, 135);
+    padding-left: 2em;
+    font-size: smaller;
+    font-weight: bolder;
+}
+
+#mainevents {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin: 0%;
+}
+
+.category {
+    display: inline;
+
+}
+
+.category img {
+
+    border-radius: 20px 20px 20px 20px;
+    height: 350px;
+    width: 270px;
+    box-shadow: 10px 10px 5px #4d4d4d;
+    margin-inline: 26.2px;
+}
+
+.promotion {
+    text-align: center;
+    padding-left: 11px;
+    padding-right: 65px;
+}
+
+.promotion img {
+    width: 1450px;
+    margin: 0;
+
+}
+
+.promotion p {
+    margin-top: 0;
+    font-weight: 600;
+}
+
+
+.promotion a {
+    text-decoration: none;
+    color: rgb(2, 112, 135);
+    padding-left: 2em;
+    font-size: smaller;
+    font-weight: bolder;
+}
+
+#back {
+    text-align: center;
+    background-color: rgba(53, 71, 88, 255);
+    padding: 0.1%;
+    
+    }
+
+#back a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+footer{
+background-color: rgba(34, 47, 62, 255);
+text-align: center;
+}
+
+footer img {
+    padding: 3% 0;
+    width: 10%;
+}
