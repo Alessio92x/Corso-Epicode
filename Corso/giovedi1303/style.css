@@ -3,9 +3,10 @@
 }
 
 body {
-    width: 100%;
+    width: 80%;
     background-color: rgb(255, 249, 240);
-    margin-left: 10%
+    margin-left: 10%;
+    
 }
 
 header {
